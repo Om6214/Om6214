@@ -18,7 +18,7 @@
 ```typescript
 const omnath = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "C", "HTML", "CSS"],
+    code: ["JavaScript", "TypeScript", "C","go lang","Python", "HTML", "CSS"],
     askMeAbout: ["web dev", "tech", "app dev", "design"],
     technologies: {
         frontEnd: {
@@ -26,10 +26,10 @@ const omnath = {
             css: ["Tailwind", "DaisyUI", "MUI"]
         },
         backEnd: {
-            js: ["Node.js", "Express"],
+            js: ["Node.js", "Express", "Nest.js"],
             databases: ["MongoDB", "MySQL", "Firebase"]
         },
-        devOps: ["Azure", "Vercel", "Render"],
+        devOps: ["Azure","AWS", "Docker","Kubernetes (Intermediate)","Shell Scripting", "Vercel", "Render"],
         tools: ["Git", "NPM", "Yarn", "Socket.io", "JWT"]
     },
     currentFocus: "Building scalable full-stack applications",
